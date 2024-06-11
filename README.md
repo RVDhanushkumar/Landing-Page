@@ -9,6 +9,7 @@ Welcome to **Luxury Wheels**, the premier destination for luxury rental cars. Wh
 
 ## 📸 Screenshots
 ![Screenshot 2024-06-12 035344](https://github.com/RVDhanushkumar/Landing-Page/assets/165562580/d89d12bd-4751-474c-a790-3052bafdd361)
-![image](https://github.com/RVDhanushkumar/Landing-Page/assets/165562580/7a66f481-2b75-475e-a0c6-6ede25e4c18c)
+![image](https://github.com/RVDhanushkumar/Landing-Page/assets/165562580/ed6ed127-114a-4cf1-91db-f0e4e14a9d07)
+
 
 
